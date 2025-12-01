@@ -33,7 +33,7 @@ house-price-predictor/
 ---
 
 ## 💻 How to Run
-
+```bash
 1. Clone this repository:
 
 git clone <your-repo-url>
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 streamlit run house_price_app.py
 
 4. The app will open in your browser at http://localhost:8501.
-
+```bash
 📝 Model Training
 The model is trained in the included Jupyter notebook: House_Price_EDA_Model.ipynb.
 --> Steps in the notebook:
